@@ -1,3 +1,9 @@
+Name: Abhay Raj Gupta
+
+Phone No.: 6387143474
+
+UPI Id: 6387143474@pthdfc
+
 # JoyzAIProject
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.15.
